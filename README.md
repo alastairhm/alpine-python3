@@ -4,3 +4,8 @@
 
 This repository provides an Alpine Python3 base image as a source for further builds.
 
+
+```bash
+docker run -it --rm alastairhm/alpine-python3
+```
+

@@ -1,4 +1,5 @@
 FROM alpine:latest
+LABEL org.opencontainers.image.source https://github.com/alastairhm/alpine-python3
 
 RUN apk update && apk upgrade && apk add --no-cache --update \
     python3 && \

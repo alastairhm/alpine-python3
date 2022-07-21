@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.16
 LABEL org.opencontainers.image.source https://github.com/alastairhm/alpine-python3
 
 RUN apk update && apk upgrade && apk add --no-cache --update \

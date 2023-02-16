@@ -8,6 +8,7 @@ Dates in this file are in format of YYYY-MM-DD (2019-12-13 means 13th of Decembe
 
 ## [Unreleased]
 
+* Alpine 3.17
 * Alpine 3.16
 * Github Actions
 * Alpine 3.15

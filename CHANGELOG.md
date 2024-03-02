@@ -8,6 +8,9 @@ Dates in this file are in format of YYYY-MM-DD (2019-12-13 means 13th of Decembe
 
 ## [Unreleased]
 
+## [[3.19]](https://github.com/alastairhm/alpine-lighttpd/releases/tag/3.19) - 2024-03-02
+
+* Alpine 3.19
 * Alpine 3.17
 * Alpine 3.16
 * Github Actions

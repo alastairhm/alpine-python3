@@ -7,7 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 Dates in this file are in format of YYYY-MM-DD (2019-12-13 means 13th of December 2019).
 
 ## [Unreleased]
+* Alpine 3.19
 
+## [[3.18]](https://github.com/alastairhm/alpine-lighttpd/releases/tag/3.18) - 2024-03-02
+
+* Alpine 3.18
 * Alpine 3.17
 * Alpine 3.16
 * Github Actions
